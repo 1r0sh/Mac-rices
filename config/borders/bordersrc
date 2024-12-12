@@ -1,0 +1,3 @@
+source "$HOME/.config/colors.sh"
+
+borders active_color=$COLOR_ACCENT_BRIGHT inactive_color=$COLOR_BACKGROUND width=7.0

@@ -1,0 +1,8 @@
+21:49:04 INF [API] listening addr=127.0.0.1:53916
+21:49:04 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+21:49:04 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+21:49:05 INF [Config] initial compatible provider name=FALLBACK
+21:49:05 INF [Config] initial compatible provider name=URL-TEST
+21:49:05 INF [Config] initial compatible provider name=MANUAL
+21:49:05 WRN [TUN] auto redir start failed error=unsupported
+21:49:05 INF [Inbound] TUN listening iface=utun4 gateway=198.18.0.1

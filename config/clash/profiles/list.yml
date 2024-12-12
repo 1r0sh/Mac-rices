@@ -1,0 +1,18 @@
+files:
+  - url: ""
+    time: 1708629126408.yml
+    name: config.yaml
+    selected: []
+  - time: 1708629208586.yml
+    name: ""
+    url: https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fvmess&type=clash&process=full
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: MANUAL
+        now: رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣ | 1️⃣7️⃣
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+    mode: rule
+index: 1
