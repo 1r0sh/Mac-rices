@@ -1,4 +1,4 @@
-<img width="1680" alt="Screenshot 1403-09-23 at 11 32 50 AM" src="https://github.com/user-attachments/assets/62754b52-4d83-4174-8fd0-1b1fe849483e" /># Gruvbox rice 
+ # Gruvbox rice 
 a minimal Gruvbox rice for mac os 
 
 ## Screenshots
