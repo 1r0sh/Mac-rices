@@ -1,0 +1,58 @@
+#---------------Colors && Icons---------------#
+
+source "$HOME/.config/colors.sh"
+source "$HOME/.config/icons.sh"
+
+#---------------------------------------------#
+
+#---------------Adding DIRs---------------#
+
+PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
+ITEM_DIR="$HOME/.config/sketchybar/items/"
+SETTING_DIR="$HOME/.config/sketchybar/setting/"
+
+#------------------------------------------#
+
+
+#---------------Bar Appearance---------------#
+
+source "$SETTING_DIR/bar.sh"
+
+#---------------------------------------------#
+
+#---------------Changing Defaults---------------#
+
+source "$SETTING_DIR/defaults.sh"
+
+#-----------------------------------------------#
+
+
+#---------------Adding Left Items---------------#
+source "$ITEM_DIR/apple.sh"
+source "$ITEM_DIR/app_space.sh"
+source "$ITEM_DIR/chevron.sh"
+source "$ITEM_DIR/front_app.sh"
+#source "$ITEM_DIR/window_title.sh"
+#-----------------------------------------------#
+
+
+#---------------Adding Right Items---------------#
+
+ source "$ITEM_DIR/time.sh"
+ source "$ITEM_DIR/date.sh"
+ source "$ITEM_DIR/wifi.sh"
+ source "$ITEM_DIR/control_center.sh"
+ source "$ITEM_DIR/battery.sh"
+ source "$ITEM_DIR/bluetooth.sh"
+ source "$ITEM_DIR/keyboard.sh"
+ source "$ITEM_DIR/backlight.sh"
+ source "$ITEM_DIR/volume.sh"
+#-------------------------------------------------#
+
+#---------------Adding Center Items--------------#
+source "$ITEM_DIR/music.sh"
+#------------------------------------------------#
+
+#---------------Finalizing Setup------------------#
+
+sketchybar --update
