@@ -1,0 +1,90 @@
+### 'MyGruvbox' theme for CMus (for 255 color terms)
+### (C) 2020 Emil Rivera-Thorsen
+### {{{
+set color_cmdline_bg=default
+set color_cmdline_fg=250
+set color_error=196
+set color_info=214
+# set color_separator=241
+set color_separator=100
+
+set color_statusline_bg=233
+set color_statusline_fg=243
+
+# Color of window titles (topmost line of the screen).
+# set color_titleline_bg=default
+set color_titleline_fg=066
+# set color_titleline_fg=108
+set color_titleline_bg=234
+
+# Normal text in window
+set color_win_bg=default
+set color_win_fg=230
+#set color_win_fg=247
+
+# Color of currently playing track
+set color_win_cur=214
+# set color_win_cur=136
+
+set color_win_dir=247
+
+# Color of currently playig when selected
+# --- Active window
+set color_win_cur_sel_bg=234
+set color_win_cur_sel_fg=142
+# --- Inactive window
+set color_win_inactive_cur_sel_bg=235
+set color_win_inactive_cur_sel_fg=142
+
+# Color of selected non-playing
+# --- Active window
+set color_win_sel_bg=234
+# set color_win_sel_fg=142
+set color_win_sel_fg=109
+# --- Inactive window
+set color_win_inactive_sel_bg=235
+# set color_win_inactive_sel_fg=142
+set color_win_inactive_sel_fg=109
+
+# Top bar colors. Make them pang!
+set color_win_title_bg=233
+#set color_win_title_fg=108
+set color_win_title_fg=243
+### }}}
+
+# Colors to use, 
+# from official Gruvbox 
+# terminal Vim theme.
+# View them in e.g. 
+# Emacs rainbow mode
+# or vim-Colorizer.
+# #32302f  ctermcolor: 236 
+# #1d2021  ctermcolor: 234 
+# #282828  ctermcolor: 235 
+# #3c3836  ctermcolor: 237 
+# #504945  ctermcolor: 239 
+# #665c54  ctermcolor: 241 
+# #7c6f64  ctermcolor: 243 
+# #928374  ctermcolor: 244 
+# #928374  ctermcolor: 245 
+# #f2e5bc  ctermcolor: 228 
+# #f9f5d7  ctermcolor: 230 
+# #fbf1c7  ctermcolor: 229 
+# #ebdbb2  ctermcolor: 223 
+# #d5c4a1  ctermcolor: 250 
+# #bdae93  ctermcolor: 248 
+# #a89984  ctermcolor: 246 
+# #fb4934  ctermcolor: 167 
+# #b8bb26  ctermcolor: 142 
+# #fabd2f  ctermcolor: 214 
+# #83a598  ctermcolor: 109 
+# #d3869b  ctermcolor: 175 
+# #8ec07c  ctermcolor: 108 
+# #fe8019  ctermcolor: 208 
+# #9d0006  ctermcolor: 88  
+# #79740e  ctermcolor: 100 
+# #b57614  ctermcolor: 136 
+# #076678  ctermcolor: 24  
+# #8f3f71  ctermcolor: 96  
+# #427b58  ctermcolor: 66  
+# #af3a03  ctermcolor: 130 
