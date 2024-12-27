@@ -1,8 +1,4 @@
-#
-
-
-# Themes 
-
+# Themes
 <details open>
   <summary>
     <h2>
