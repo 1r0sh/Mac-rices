@@ -1,3 +1,8 @@
+#
+
+
+# Themes 
+
 <details open>
   <summary>
     <h2>
@@ -29,3 +34,7 @@
 
 
 </details>
+
+# Credit
+
+The sketchybar and icons were taken from *[this](https://github.com/hbthen3rd/dotfiles)* project and some changes were made.
