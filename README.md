@@ -13,3 +13,19 @@
 
 
 </details>
+
+<details open>
+  <summary>
+    <h2>
+      <a href="https://github.com/1r0sh/Mac-rices/tree/Monochrome">Monochrome</a>
+    </h2>
+  </summary>
+  
+![1](https://github.com/user-attachments/assets/4d4712df-d3fb-4560-8aa0-af413628e245)
+<br></br>
+![2](https://github.com/user-attachments/assets/fb7bd951-8f73-4377-8110-faaa06d46641)
+<br></br>
+![3](https://github.com/user-attachments/assets/9b51b326-c198-47c3-98a5-4aace8d1406c)
+
+
+</details>
