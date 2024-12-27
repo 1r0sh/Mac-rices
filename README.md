@@ -5,7 +5,7 @@
     </h2>
   </summary>
 
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/1r0sh/Mac-rices/blob/Gruvbox/Screenshots/1.png" />
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/1r0sh/Mac-rices/raw/Gruvbox/Screenshots/1.png" />
   <br><br>
   <img align="center" width="100%" src="https://raw.githubusercontent.com/1r0sh/Macos-rices/Gruvbox/Screenshots/2.png" />
   <br><br>
