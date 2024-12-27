@@ -8,6 +8,4 @@ a minimal Gruvbox rice for mac os
 <img width="1680" alt="Screenshot 1403-09-23 at 11 28 14 AM" src="https://github.com/user-attachments/assets/68dc0090-fc0c-4748-847f-64b2fb2644c3" />
 <img width="1680" alt="Screenshot 1403-09-23 at 11 33 58 AM" src="https://github.com/user-attachments/assets/98889e91-4cd6-4143-b54c-422318e1b814" />
 
-## Credit
 
-The sketchybar and icons were taken from *[this](https://github.com/hbthen3rd/dotfiles)* project and some changes were made.
