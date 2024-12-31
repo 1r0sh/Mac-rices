@@ -1,0 +1,12 @@
+{
+  "debug": false,
+  "http_server_enabled": true,
+  "http_server_port": 7906,
+  "password": "",
+  "transcoder_cache_count": 50,
+  "transcoder_synchronous": false,
+  "transcoder_synchronous_fallback": false,
+  "use_ipv6": false,
+  "websocket_server_enabled": true,
+  "websocket_server_port": 7905
+}

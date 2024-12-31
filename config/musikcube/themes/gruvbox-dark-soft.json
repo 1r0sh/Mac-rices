@@ -1,0 +1,135 @@
+{
+  "name":"gruvbox-dark-soft",
+  "schemaVersion":1,
+  "colors": {
+    "background": {
+      "hex": "#3c3836",
+      "palette": 234
+    },
+    "foreground": {
+      "hex": "#ebdbb2",
+      "palette": 254
+    },
+    "focused_border": {
+      "hex": "#fb4934",
+      "palette": 160
+    },
+    "text_focused": {
+      "hex": "#fb4934",
+      "palette": 160
+    },
+    "text_active":{
+      "hex": "#8ec07c",
+      "palette": 64
+    },
+    "text_disabled": {
+      "hex": "#928374",
+      "palette": 245
+    },
+    "text_hidden": {
+      "hex": "#928374",
+      "palette": 235
+    },
+    "text_warning": {
+      "hex": "#b16286",
+      "palette": 136
+    },
+    "text_error": {
+      "hex": "#b16286", "palette": 160 },
+    "overlay_background": {
+      "hex": "#3c3836",
+      "palette": 240
+    },
+    "overlay_foreground": {
+      "hex": "#ebdbb2",
+      "palette": 230
+    },
+    "overlay_border": {
+      "hex": "#d3c6aa",
+      "palette": 235
+    },
+    "overlay_focused_border": {
+      "hex": "#e67e80",
+      "palette": 160
+    },
+    "shortcuts_background": {
+      "hex": "#504945",
+      "palette": 240
+    },
+    "shortcuts_foreground": {
+      "hex": "#ebdbb2",
+      "palette": 230
+    },
+    "shortcuts_background_focused": {
+      "hex": "#689d6a",
+      "palette": 160
+    },
+    "shortcuts_foreground_focused": {
+      "hex": "#504945",
+      "palette": 230
+    },
+    "button_background_normal": {
+      "hex": "#ebdbb2",
+      "palette": 254
+    },
+    "button_foreground_normal": {
+      "hex": "#282828",
+      "palette": 234
+    },
+    "button_background_active": {
+      "hex": "#b8bb26",
+      "palette": 64
+    },
+    "button_foreground_active": {
+      "hex": "#282828", "palette": 230
+    },
+    "banner_background": {
+      "hex": "#504945",
+      "palette": 166
+    },
+    "banner_foreground": {
+      "hex": "#b16286",
+      "palette": 254
+    },
+    "list_header_background": {
+      "hex": "#448487",
+      "palette": 234
+    },
+    "list_header_foreground": {
+      "hex": "#ebdbb2",
+      "palette": 64
+    },  
+    "list_header_highlighted_background": {
+      "hex": "#a7c080",
+      "palette": 214
+    },
+    "list_header_highlighted_foreground": {
+      "hex": "#293136",
+      "palette": 237
+    },
+    "list_item_highlighted_background": {
+      "hex": "#d79921",
+      "palette": 245
+    },
+    "list_item_highlighted_foreground": {
+      "hex": "#282828",
+      "palette": 234
+    },
+    "list_item_active_background": {
+      "hex": "#689d6a",
+      "palette": 254
+    },
+    "list_item_active_foreground": {
+      "hex": "#282828",
+      "palette": 235
+    },
+    "list_item_active_highlighted_background": {
+      "hex": "#b8bb26",
+      "palette": 230
+    },
+    "list_item_active_highlighted_foreground": {
+      "hex": "#282828",
+      "palette": 235
+    }
+  }
+}
