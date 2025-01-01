@@ -1,4 +1,5 @@
-<img width="1680" alt="4" src="https://github.com/user-attachments/assets/ee993a5c-c3fa-45b3-babe-e5512ece21c5" /><img width="1680" alt="1" src="https://github.com/user-attachments/assets/d7d753ac-a5b0-4752-a814-f147357e71bf" /># Themes
+# Themes
+
 <details open>
   <summary>
     <h2>
