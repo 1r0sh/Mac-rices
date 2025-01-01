@@ -1,4 +1,4 @@
-<img width="1680" alt="Screenshot 1403-10-12 at 12 18 08 PM" src="https://github.com/user-attachments/assets/1a670638-8645-499a-b5df-ec79374d199c" /># Themes
+# Themes
 <details open>
   <summary>
     <h2>
