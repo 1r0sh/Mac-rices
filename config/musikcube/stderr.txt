@@ -1,0 +1,8 @@
+[2025-01-01 19:10:12] [info] asio async_connect error: asio.system:61 (Connection refused)
+[2025-01-01 19:10:12] [info] Error getting remote endpoint: asio.system:22 (Invalid argument)
+[2025-01-01 19:10:12] [error] handle_connect error: Connection refused
+[mp3float @ 0x145e219d0] Could not update timestamps for skipped samples.
+[mp3float @ 0x146b3f5d0] Could not update timestamps for skipped samples.
+[mp3float @ 0x145e22900] Could not update timestamps for skipped samples.
+[mp3float @ 0x146b424e0] Could not update timestamps for skipped samples.
+[2025-01-01 19:13:04] [error] handle_read_frame error: websocketpp.transport:7 (End of File)

@@ -1,0 +1,5 @@
+[plugin]
+deps = [{ use = "Tyarel8/video-ffmpeg", rev = "1250b85" }]
+
+[flavor]
+deps = [{ use = "bennyyip/gruvbox-dark", rev = "c204853" }]

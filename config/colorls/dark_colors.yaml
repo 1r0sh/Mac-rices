@@ -1,0 +1,47 @@
+# Main Colors
+unrecognized_file: '#ebdbb2'  #WhiteBright
+recognized_file:   '#d65d0e'  #Orange
+executable_file:   '#8ec07c'  #CyanBright
+dir:               '#458588'  #Blue
+
+# Link
+dead_link: '#282828'          #Black
+link:      '#458588'          #Blue
+
+# special files
+socket:    '#b16286'          #Magenta
+blockdev:  '#b16286'          #Magenta
+chardev:   '#b16286'          #Magenta
+
+
+# Access Modes
+write:     '#ebdbb2'          #WhiteBright
+read:      '#cc241d'          #Red
+exec:      '#689d6a'          #Cyan
+no_access: '#cc241d'          #Red
+
+# Age
+day_old:     '#98971a'        #Green
+hour_old:    '#98971a'        #Green
+no_modifier: '#98971a'        #Green
+
+# File Size
+file_large:  '#d79921'        #Yellow
+file_medium: '#d79921'        #Yellow
+file_small:  '#d79921'        #Yellow
+
+# Random
+report: '#d4be98'
+user:   moccasin
+tree:   '#89b482'
+empty:  '#d8a657'
+error:  '#ea6962'
+normal: darkkhaki
+inode: moccasin
+
+# Git
+addition:     '#b8bb26'     #GreenBright
+modification: darkkhaki
+deletion:     '#cc241d'     #Red
+untracked:    '#d79921'     #Yellow
+unchanged:    '#cc241d'     #Red

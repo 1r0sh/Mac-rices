@@ -1,0 +1,21 @@
+[opener]
+song = [
+  {run = 'open -a Music "$@"', orphan = true, for = "unix"},
+
+]
+play = [
+	{ run = 'open -a VLC "$@"', orphan = true, for = "unix" },
+]
+edit = [
+	{ run = 'nvim "$@"', block = true, for = "unix" },
+]
+open = [
+	{ run = 'xdg-open "$@"', desc = "Open" },
+]
+
+[open]
+prepend_rules = [
+	{ name = "*.json", use = "edit" },
+
+	{ name = "*.mp3", use = [ "song"] },
+]
