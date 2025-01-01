@@ -1,4 +1,4 @@
-# Themes
+<img width="1680" alt="Screenshot 1403-10-12 at 12 18 08 PM" src="https://github.com/user-attachments/assets/1a670638-8645-499a-b5df-ec79374d199c" /># Themes
 <details open>
   <summary>
     <h2>
@@ -6,11 +6,14 @@
     </h2>
   </summary>
   
-<img width="1680" alt="1" src="https://github.com/user-attachments/assets/b1cd0bd2-0f73-41a5-917d-73b9aa51f531" />
+  
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/c6f88956-902f-4837-9e1f-88addee74a56" />
 <br><br>
-<img width="1680" alt="2" src="https://github.com/user-attachments/assets/69bce3cd-5850-446f-9a59-9720326ebca4" />
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/d452d39c-3971-47f4-acf0-5d1a0f0ba600" />
 <br><br>
-<img width="1680" alt="3" src="https://github.com/user-attachments/assets/7c6c8a60-3fb8-4e6d-9ad6-1c52f5e881b7" />
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/8abaa96e-0907-4991-8fa2-b329c07bc331" />
+
+
 
 
 </details>
