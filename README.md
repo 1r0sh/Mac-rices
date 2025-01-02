@@ -6,13 +6,15 @@
       <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox">Gruvbox-dark</a>
     </h2>
   </summary>
+
   
-  
-<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/c6f88956-902f-4837-9e1f-88addee74a56" />
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/3949f186-80ae-4d38-a000-c3c4def305a9" />
 <br><br>
-<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/d452d39c-3971-47f4-acf0-5d1a0f0ba600" />
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/5c917cc1-a0a2-4ef1-be43-32076cecb936" />
 <br><br>
 <img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/8abaa96e-0907-4991-8fa2-b329c07bc331" />
+<br><br>
+<img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/a8171972-f4a2-49fd-a848-3aa42418aec4" />
 
 
 
