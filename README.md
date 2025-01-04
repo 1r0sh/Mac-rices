@@ -61,3 +61,5 @@
 # Credit
 
 The sketchybar and icons were taken from *[this](https://github.com/hbthen3rd/dotfiles)* project and some changes were made.
+
+The Gravbox-light theme is inspired by this *[rice](https://www.reddit.com/r/unixporn/comments/1howhc5/sway_moving_to_gentoo/)* and this *[repo](https://github.com/Khaustoff/Khaustoff_dots)*
