@@ -1,5 +1,0 @@
-[2024-12-31 21:28:31] [info] asio async_connect error: asio.system:61 (Connection refused)
-[2024-12-31 21:28:31] [info] Error getting remote endpoint: asio.system:22 (Invalid argument)
-[2024-12-31 21:28:31] [error] handle_connect error: Connection refused
-[mp3 @ 0x133e86fc0] Estimating duration from bitrate, this may be inaccurate
-[2024-12-31 21:29:44] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
