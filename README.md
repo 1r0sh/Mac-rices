@@ -3,7 +3,7 @@
 <details open>
   <summary>
     <h2>
-      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox">Gruvbox-dark</a>
+      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox-dark">Gruvbox-dark</a>
     </h2>
   </summary>
 
@@ -24,7 +24,7 @@
 <details open>
   <summary>
     <h2>
-      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox">Gruvbox-light</a>
+      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox-light">Gruvbox-light</a>
     </h2>
   </summary>
   
