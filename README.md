@@ -3,6 +3,30 @@
 <details open>
   <summary>
     <h2>
+      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox">Gruvbox</a>
+    </h2>
+  </summary>
+
+
+<img width="1680" alt="Screenshot1" src="https://github.com/user-attachments/assets/e12afce2-98f3-459d-893d-4514fbf710ba" />
+<br><br>
+<img width="1680" alt="Screenshot2" src="https://github.com/user-attachments/assets/092bca9f-9b31-436d-a2d0-3a27918d4aaa" />
+<br><br>
+<img width="1680" alt="Screenshot3" src="https://github.com/user-attachments/assets/e9eeb6b1-d00d-45a6-b591-39361c33add7" />
+
+
+
+
+
+</details>
+
+
+
+
+
+<details open>
+  <summary>
+    <h2>
       <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox-dark">Gruvbox-dark</a>
     </h2>
   </summary>
