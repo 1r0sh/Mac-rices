@@ -1,5 +1,5 @@
  # Gruvbox rice 
-a minimal Gruvbox rice for mac os 
+minimal stupe with simple bar sketchybar config
 
 ## Screenshots
 
@@ -9,3 +9,4 @@ a minimal Gruvbox rice for mac os
 
 ## Credits
 use *[textfox](https://github.com/adriankarlen/textfox/)* for firefox theme
+Menubar: *[Sketchybar](https://github.com/FelixKratz/SketchyBar)*
