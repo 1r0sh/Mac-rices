@@ -1,0 +1,100 @@
+#---------------Colors && Icons---------------#
+
+source "$HOME/.config/colors.sh"
+source "$HOME/.config/icons.sh"
+
+#---------------------------------------------#
+
+#---------------Adding DIRs---------------#
+
+PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
+ITEM_DIR="$HOME/.config/sketchybar/items/"
+SETTING_DIR="$HOME/.config/sketchybar/setting/"
+
+#------------------------------------------#
+
+
+#---------------Bar Appearance---------------#
+
+source "$SETTING_DIR/bar.sh"
+
+#---------------------------------------------#
+
+#---------------Changing Defaults---------------#
+
+source "$SETTING_DIR/defaults.sh"
+
+#-----------------------------------------------#
+
+
+#---------------Adding Left Items---------------#
+source "$ITEM_DIR/apple.sh"
+sketchybar --add bracket apple logo \
+           --set         apple background.color=$COLOR_BLACK \
+
+sketchybar --add item seperator.l1 left                   \
+           --set      seperator.l1 padding_left=6         \
+                                   padding_right=6        \
+                                   background.drawing=off \
+                                   icon.drawing=off       \
+                                   label.drawing=off
+
+
+source "$ITEM_DIR/app_space.sh"
+
+sketchybar --add bracket spaces '/space\..*/'                      \
+           --set         spaces background.color=$COLOR_BLACK \
+
+
+sketchybar --add item seperator.l2 left                   \
+           --set      seperator.l2 padding_left=6         \
+                                   padding_right=6        \
+                                   background.drawing=off \
+                                   icon.drawing=off       \
+                                   label.drawing=off
+
+source "$ITEM_DIR/music.sh"
+
+#source "$ITEM_DIR/window_title.sh"
+#-----------------------------------------------#
+
+
+#---------------Adding Right Items---------------#
+
+ source "$ITEM_DIR/time.sh"
+ source "$ITEM_DIR/date.sh"
+ source "$ITEM_DIR/control_center.sh"
+ source "$ITEM_DIR/battery.sh"
+ source "$ITEM_DIR/keyboard.sh"
+ # source "$ITEM_DIR/backlight.sh"
+ source "$ITEM_DIR/volume.sh"
+sketchybar --add bracket clock time date control_center battery keyboard  volume volume_icon volume_slider  \
+            --set         clock background.color=$COLOR_BLACK \
+                                background.border_color=$COLOR_WHITE \
+
+sketchybar --add item seperator.r1 right                  \
+           --set      seperator.r1 padding_left=6         \
+                                   padding_right=6        \
+                                   background.drawing=off \
+                                   icon.drawing=off       \
+                                   label.drawing=off
+
+
+ 
+ source "$ITEM_DIR/bluetooth.sh"
+ source "$ITEM_DIR/wifi.sh"
+sketchybar --add bracket panel bluetooth wifi  \
+            --set        panel background.color=$COLOR_BLACK \
+                                background.border_color=$COLOR_WHITE \
+#-------------------------------------------------#
+
+#---------------Adding Center Items--------------#
+#source "$ITEM_DIR/front_app.sh"
+source "$ITEM_DIR/window_title.sh"
+sketchybar --add bracket front title \
+           --set         front background.color=$COLOR_BLACK \
+#------------------------------------------------#
+
+#---------------Finalizing Setup------------------#
+
+sketchybar --update

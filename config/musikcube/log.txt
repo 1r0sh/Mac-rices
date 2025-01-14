@@ -1,0 +1,62 @@
+17:08:58 [info] [LOG SESSION] ---------- START ----------
+17:08:58 [info] [PluginFactory] loading plugins
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libsupereqdsp.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libportaudioout.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libmacosmediakeys.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libtaglibreader.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libstockencoders.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libserver.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libopenmptdecoder.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libhttpdatastream.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libgmedecoder.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libnullout.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libffmpegdecoder.dylib
+17:08:58 [info] [PluginFactory] loaded: /opt/homebrew/Cellar/musikcube/3.0.4/share/musikcube/plugins/libcoreaudioout.dylib
+17:08:58 [info] [PortAudioOut] Pa_Initialize() return code: 0
+17:08:58 [warning] [PortAudioOut] Pa_AbortStream() return code: -9988
+17:08:58 [warning] [PortAudioOut] Pa_CloseStream() return code: -9988
+17:08:58 [info] [PortAudioOut] Pa_Terminate() return code: 0
+17:08:58 [info] [Indexer] indexer source 197490949 running...
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+17:08:58 [info] [Indexer] indexer source 197490949 finished
+17:08:58 [info] [Indexer] indexer source 1859739243 running...
+17:08:58 [info] [Indexer] indexer source 1859739243 finished
+17:08:58 [info] [Indexer] scanning /Users/arash/Music/
+17:08:58 [info] [Indexer] scan completed successfully
+17:08:58 [info] [Indexer] cleanup 1/2
+17:08:58 [info] [Indexer] cleanup 2/2
+17:08:58 [info] [Indexer] optimizing
+17:08:58 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+17:08:58 [info] [Indexer] done!
+17:08:58 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+17:08:58 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+17:08:58 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+17:08:58 [info] [macosmediakeys] listening to media keys
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+17:08:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+17:08:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
