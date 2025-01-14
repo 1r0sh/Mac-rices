@@ -9,4 +9,5 @@ minimal stupe with simple bar sketchybar config
 
 ## Credits
 use *[textfox](https://github.com/adriankarlen/textfox/)* for firefox theme
+<br></br>
 Menubar: *[Sketchybar](https://github.com/FelixKratz/SketchyBar)*
