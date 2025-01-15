@@ -1,6 +1,6 @@
  # Gruvbox rice 
-minimal setup with simple bar sketchybar config
-
+minimal gruvbox theme for macos
+apps on screen: firefox, iterm2 , pipes.sh , cava , vscode, btop,
 ## Screenshots
 
 <img width="1680" alt="Screenshot" src="Screenshots/Screenshot1.png" />
