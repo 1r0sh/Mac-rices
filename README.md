@@ -1,5 +1,6 @@
  # Gruvbox rice 
 minimal gruvbox theme for macos
+<br><br>
 apps on screen: firefox, iterm2 , pipes.sh , cava , vscode, btop,
 ## Screenshots
 
