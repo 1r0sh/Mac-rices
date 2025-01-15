@@ -1,5 +1,5 @@
  # Gruvbox rice 
-minimal stupe with simple bar sketchybar config
+minimal setup with simple bar sketchybar config
 
 ## Screenshots
 
