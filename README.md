@@ -83,6 +83,7 @@
 </details>
 
 # Credit
+Check *[this](https://gruvbox-wallpapers.pages.dev/)* for find gruvbox wallpapers
 
 The sketchybar and icons were taken from *[this](https://github.com/hbthen3rd/dotfiles)* project and some changes were made.
 
