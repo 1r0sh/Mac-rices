@@ -15,11 +15,26 @@
 <img width="1680" alt="Screenshot3" src="https://github.com/user-attachments/assets/e9eeb6b1-d00d-45a6-b591-39361c33add7" />
 
 
+</details>
 
+
+
+
+<details open>
+  <summary>
+    <h2>
+      <a href="https://github.com/1r0sh/Mac-rices/tree/Gruvbox-material">Gruvbox-material</a>
+    </h2>
+  </summary>
+
+<img width="1680" alt="1" src="https://github.com/user-attachments/assets/3a09564f-4d58-4dd0-8bdb-a24839000bc4" />
+<br><br>
+<img width="1680" alt"2" src="https://github.com/user-attachments/assets/fc438e46-21b3-4b35-832e-60e34ad5f5fe" />
+<br><br>
+<img width="1680" alt="3" src="https://github.com/user-attachments/assets/4da610e7-b32b-4176-bffc-13313a3927f1" />
 
 
 </details>
-
 
 
 
@@ -41,9 +56,9 @@
 <img width="1680" alt="Screenshot" src="https://github.com/user-attachments/assets/a8171972-f4a2-49fd-a848-3aa42418aec4" />
 
 
-
-
 </details>
+
+
 
 <details open>
   <summary>
@@ -60,24 +75,6 @@
 <img width="1680" alt="3" src="https://github.com/user-attachments/assets/7bd84af8-ca9c-48e1-acb9-4f73b9150a73" />
 <br><br>
 <img width="1680" alt="4" src="https://github.com/user-attachments/assets/9bed4e1c-b496-4b90-8fd2-aca764629826" />
-
-
-
-
-</details>
-
-<details open>
-  <summary>
-    <h2>
-      <a href="https://github.com/1r0sh/Mac-rices/tree/Monochrome">Monochrome</a>
-    </h2>
-  </summary>
-  
-![1](https://github.com/user-attachments/assets/4d4712df-d3fb-4560-8aa0-af413628e245)
-<br></br>
-![2](https://github.com/user-attachments/assets/fb7bd951-8f73-4377-8110-faaa06d46641)
-<br></br>
-![3](https://github.com/user-attachments/assets/9b51b326-c198-47c3-98a5-4aace8d1406c)
 
 
 </details>
