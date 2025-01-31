@@ -1,0 +1,9 @@
+sketchybar --bar color=$BLACK \
+  height=30 \
+  y_offset=0 \
+  padding_left=4 \
+  padding_right=6 \
+  corner_radius=0 \
+  topmost=off \
+  margin=0 \
+  position=top

@@ -1,0 +1,59 @@
+[manager]
+linemode = "size"
+
+[opener]
+img = [
+  {run = 'open -a Preview "$@"', desc = "Open" }
+]
+
+doc = [
+  {run = 'open -a Safari "$@" ', desc = "Open" }
+]
+
+song = [
+  {run = 'open -a Music "$@"', orphan = true, for = "unix"},
+
+]
+
+play = [
+	{ run = '/Applications/VLC.app/Contents/MacOS/VLC --no-video-deco --no-embedded-video "$@"', orphan = true, for = "unix" },
+]
+
+edit = [
+	{ run = 'nvim "$@"', block = true, for = "unix" },
+]
+
+open = [
+	{ run = 'xdg-open "$@"', desc = "Open" },
+]
+  # add cutom files #
+[open]
+prepend_rules = [
+	{ name = "*.json", use = "edit" },
+
+	{ name = "*.mp3",  use = [ "song"] },
+
+  { name = "*.jpg",  use = "img"},
+
+  { name = "*.png",  use = "img"},
+
+  { name = "*.pdf",  use = "doc"},
+
+]
+
+ # add preview size for image #
+[preview]
+# Change them to your desired values
+max_width  = 1000
+max_height = 1000
+
+# add git indicator #
+[[plugin.prepend_fetchers]]
+id   = "git"
+name = "*"
+run  = "git"
+
+[[plugin.prepend_fetchers]]
+id   = "git"
+name = "*/"
+run  = "git"

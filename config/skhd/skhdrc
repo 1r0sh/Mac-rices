@@ -1,0 +1,25 @@
+# move floating window
+ctrl + shift - left  : yabai -m window --move rel:-12:0
+ctrl + shift - right : yabai -m window --move rel:12:0
+ctrl + shift - up    : yabai -m window --move rel:0:-12
+ctrl + shift - down  : yabai -m window --move rel:0:12
+
+# -----------------------------------------------------------------------------
+
+# make floating window fill screen
+# <total rows>:< total cols>:<start-x>:<start-y>:<window width>:< window height>
+
+cmd + alt - f        : yabai -m window --grid 1:1:0:0:1:1
+cmd  + alt - c       : yabai -m window --grid 12:12:3:3:6:6
+cmd + alt + ctrl - f : yabai -m window --grid 24:26:1:1:24:22
+ctrl + alt - left    : yabai -m window --grid 1:2:0:0:1:1
+ctrl + alt - right   : yabai -m window --grid 1:2:1:0:1:1
+ctrl + alt - down    : yabai -m window --grid 13:1:0:6:1:7
+ctrl + alt - up      : yabai -m window --grid 13:1:0:0:1:6
+# -----------------------------------------------------------------------------
+# open a new iTerm window
+cmd - return  : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
+alt - return  : open -na Oblivion-desktop
+cmd + alt - t : open -a Telegram
+cmd + alt - s : sketchybar --update
+
